@@ -2,7 +2,7 @@
 
 ---
 
-## Descripción del Proyecto
+## Descripción del Proyecto FullStack
 
 Este es un sistema de gestión para tiendas, diseñado para facilitar el control 
 y la administración de datos clave de negocio. El proyecto es una demostración 
